@@ -1,17 +1,17 @@
 <style>
-		header{background:#888888;border-bottom:solid black 6px;font-size:64;text-align:center;padding:20px;}
-		body {font-family:微軟正黑體;font-weight:600;font-size:24;margin: 0;background:#BBFFEE;}
-		nav {text-align:center;position:fixed;width:17.5%; top:25%;margin:0 1%;}
-		nav a {background:#888888;display:block;color:inherit; color:#FFFFBB;text-decoration: none;font-size:27;line-height:65px;border:solid black 6px;}
-		nav a:hover{background-color: white;color: black;}
-		main{width:60%;margin:0 auto;}
-		footer{background:#888888;border-bottom:solid black;font-size:32;border-top:solid black 6px}
-		h2{color:#FF3333;}
-		h3{color:#008800;}
-		.profile,.learn,.contact,.why,.experience{background:#FFFFBB;padding:0 20px 40px ; border:solid black 6px;margin:-6px auto;}
-		.box{display:inline-block;vertical-align:top;margin:0 20px;}
-		.connection{text-align:center;}
-		.ig{width :3%;}
-		.fb{width :3%;}
-		.gmail{width:4%;}
+	header{background:#888888;border-bottom:solid black 6px;font-size:64;text-align:center;padding:20px;}
+	body {font-family:微軟正黑體;font-weight:600;font-size:24;margin: 0;background:#BBFFEE;}
+	nav {text-align:center;position:fixed;width:17.5%; top:25%;margin:0 1%;}
+	nav a {background:#888888;display:block;color:inherit; color:#FFFFBB;text-decoration: none;font-size:27;line-height:65px;border:solid black 6px;}
+	nav a:hover{background-color: white;color: black;}
+	main{width:60%;margin:0 auto;}
+	footer{background:#888888;border-bottom:solid black;font-size:32;border-top:solid black 6px}
+	h2{color:#FF3333;}
+	h3{color:#008800;}
+	.profile,.learn,.contact,.why,.experience{background:#FFFFBB;padding:0 20px 40px ; border:solid black 6px;margin:-6px auto;}
+	.box{display:inline-block;vertical-align:top;margin:0 20px;}
+	.connection{text-align:center;}
+	.ig{width :3%;}
+	.fb{width :3%;}
+	.gmail{width:4%;}
 </style>
