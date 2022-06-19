@@ -1,14 +1,13 @@
 header{background:#888888; border-bottom:solid black 6px; font-size:64; 
-    text-align:center; padding:20px;}
-body {font-family:微軟正黑體; font-weight:600; font-size:24; margin:0; 
+    text-align:center; }
+body {font-family:微軟正黑體; font-weight:600; font-size:24; margin:auto; 
     background:#BBFFEE;}
-nav {text-align:center; position:fixed; width:17.5%;margin:1% 0% 0% 1%;}
+nav {display: block;text-align:center; position:fixed; width:17.5%; ;left:1%; margin:130px 0px ;}
 nav a {background:#888888; display:block; ; color:#FFFFBB; 
     text-decoration:none; font-size:27; line-height:65px; border:solid #000000 6px;}
 nav a:hover	{background-color: white;color: black;}
-main	{width:60%; margin: -6px auto;;background:#FFFFBB;}
-.footer {display:block;background-color: #888888; border-top:solid black 6px; font-size:28;
-    text-align:center;padding:1%;}
+main	{width:60%; margin:-6px auto;;background:#FFFFBB;}
+footer {text-align:center;background-color: #888888; border-top:solid black 6px; font-size:28;;padding:1% ;}
 h2	{color:#000000;font-weight: 900;font-size:48;text-align:center;padding:10px 40px;margin:20px 0px 0px 0px;background-color:#dbcbff
     ;width:fit-content ;margin:40px auto;border:solid #463333 4px}
 .profile h3{color:#008800;border-bottom:solid #5B5B5B 3px 50px;font-size:32;}
@@ -18,5 +17,6 @@ h2	{color:#000000;font-weight: 900;font-size:48;text-align:center;padding:10px 4
 .learn,.contact,.why,.experience {display:block;padding:0 110px 40px ; 
     border:solid black 6px;margin:-6px auto;text-align:start;}
 .box  {display:inline-block;vertical-align:top;width:auto;margin:0px 48px}
-.mail,.fb,.ig,.youtube,.shu{width :2.5%;vertical-align: middle;}
+.mail,.fb,.ig,.youtube,.shu{width :4%;vertical-align: middle;}
+.fw {width:60%;margin:0% 20%;}
 
